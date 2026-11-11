@@ -3,3 +3,4 @@ docs/*       @omkarchavan25
 README.md    @omkarchavan25
 /build/logs/ @omkarchavan25
 src/app/main.ts
+.env.*       @omkarchavan25
